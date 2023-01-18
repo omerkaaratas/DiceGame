@@ -1,3 +1,5 @@
+View the live website here: https://omerkaaratas.github.io/DiceGame/
+
 
 #Dice Game
 This is a simple JavaScript-based dice game that simulates the roll of one or multiple dice.

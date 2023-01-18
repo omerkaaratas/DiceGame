@@ -12,7 +12,7 @@ The results of the roll will be displayed on the screen.
 Simple and easy to use user interface
 Option to adjust the number of dice to roll
 Randomized results using JavaScript's built-in Math.random() function
-Responsive design for optimal display on various screen sizes
+Responsive design for optimal display on various screen sizes.
 
 #Installation
 Download the project files
@@ -24,7 +24,7 @@ Contribute
 Feel free to fork the project and submit pull requests with any improvements or bug fixes.
 
 #Licensing
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
 
 Enjoy the game!
 
